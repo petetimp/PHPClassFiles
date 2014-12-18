@@ -1,0 +1,10 @@
+Nancy	Davolio	Sales Representative	ndavolio@northwind.com
+Andrew	Fuller	Vice President, Sales	afuller@northwind.com
+Janet	Leverling	Sales Representative	jleverling@northwind.com
+Margaret	Peacock	Sales Representative	mpeacock@northwind.com
+Steven	Buchanan	Sales Manager	sbuchanan@northwind.com
+Michael	Suyama	Sales Representative	msuyama@northwind.com
+Robert	King	Sales Representative	rking@northwind.com
+Laura	Callahan	Inside Sales Coordinator	lcallahan@northwind.com
+Anne	Dodsworth	Sales Representative	adodsworth@northwind.com
+Peter	Timpone		petetimp@eden.rutgers.edu

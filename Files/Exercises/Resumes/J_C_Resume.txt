@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cw:File xmlns:cw="http://www.webucator.com/Schemas/Courseware"><![CDATA[814.362.7576
+jpcst52@pitt.edu
+116 Congress St.
+Bradford PA 16701
+Jeremy Callinan
+Objective	- to pursue a career working in several IT related fields, including Management Information Systems, Network Administration, Web Application and Systems Programming.
+Experience	- 
+Owner                         Callinan Consulting                              1999-Present
+	- Currently owns and operates small business
+	- Services local PCs and home networks, clients include Ethan Allen
+	- Creates applications for business and personal use
+	- Created and updates http://bcpac.com, for Bradford's Creative and Performing Arts Center
+	- Created and administers website, http://chromesplash.com/, featuring custom Flash, JavaScript, PHP, and XML/HTML with a MySQL backend
+	- Created and administers website, http://jcallinan.com, featuring custom Flash and HTML, and PHP with a MySQL backend
+	- Created and administers website, http://crackandhack.com, featuring custom Flash and HTML, and PHP with a MySQL backend
+	- Web Developer / Consultant         Zippo Manufacturing         2000-Present
+	- Designed database in SQL Server and website in ASP/VBScript for Zippo Manufacturing's launch of their first collector's club  http://zippoclick.com, includes a complete web community  modules such as registration, message boards, internal messaging, classifieds, etc. Also created administration interface for club administrator to add, edit, and delete all objects from any part of the site
+	- Helped design and develop database and web application for second version of http://www.zippoclick.com, using ASP.NET and SQL Server, utilizing an N-Tier design, carrying over all features from first release plus more. This included developing a VB.NET based chat server from scratch.
+	- Helped design and develop database and web application for http://www.zippotricks.com, using JSP and SQL Server. Zippotricks.com currently sustains in excess of 1 million hits per month.
+	- Primary Contact/Developer       UPB MIS Team                     2002-Present
+	- Assisted in development of redesign of http://jdfamilycenter.org, for the Jefferson Defrees Family Center in Warren PA. Includes database backend with online administration
+	- Continuing as part of MIS Team, more work is scheduled for future
+	- 
+Web Assistant          University of Pittsburgh at Bradford   2001-Present
+	- Used Macromedia Dreamweaver and Microsoft FrontPage to create, edit and publish web documents and applications.
+	- Utilized HTML markup, PHP/ASP/CGI to create web applications.
+	- Work as part of task force to implement total web site redesign  http://www.upb.pitt.edu/, involving migrating web content and creating/configuring new interactive elements.
+	- Created a database driven system for collecting and responding to web publishing requests inside the university  http://www.upb.pitt.edu/web_publishing
+	- Created a database driven photo search engine to assist web administrators within the campus in creating new pages - http://www.upb.pitt.edu/photos_database/
+	- Created a PHP based/MySQL data driven site for internal Presidential Search Committee, featuring an interactive message board and secure document transfer, all enclosed in a HTTP secured password protected site  http://www.upb.pitt.edu/pres/intranet/
+	- Created a PHP based/MySQL data driven portal for faculty, staff and students
+	- Created on online application system using ASP and Oracle
+	- Helped initiative and fuel Internet markting efforts for the campus
+	- Currently working on systems for accepting donations online, and creating an online storefront for the campus book store
+	- 
+Teaching Assistant  University of Pittsburgh at Bradford   2002
+	- 	- Facilitated installation and configuration of software to assist classes, including:
+	- SQL Server, Flash, XML, Javascript
+	- Assisted students in local classroom, and communicated with instructor to help assist in the interaction during classes.
+
+Sales assistant          Ed Shults Chevrolet                             1998-1999
+	- Maintained cars and lots
+	- Assisted salesmen in helping customers
+	- Helped organize and distribute food for Christmas Charity Drive
+Education	- 1999-2002	- University Of Pittsburgh at Bradford	- 
+	- Currently working towards a Bachelors in Computer Science
+	- Minor In M.I.S.
+	- QPA  3.7 / 4.0
+
+Skills: 
+
+	- Operating Systems: worked on several platforms, including DOS, Windows 3.1, Windows 9x, OS/2, Linux, FreeBSD and Macintosh System 7-9, X. Experience in DOS and Linux/UNIX command line administration, creating batch files and scripts, and general OS administration.
+Hardware: PC building and servicing, including troubleshooting and regular maintenance. Experience with hardware on Windows 9x/ Linux/ UNIX /Macintosh platforms, and several hardware interfaces, including IDE and SCSI.
+Networking: installation and maintenance, including working with Ethernet home networks. Experience with several protocols including TCP/IP, NetBIOS, and IPX/SPX. Experience with several internet technologies such as Server software (IIS, Apache, Oracle Application Server, Jrun, Apache Tomcat), CGI, ASP, JSP, PHP, Java Applets, IP addressing, firewalls, and network troubleshooting.
+Programming: experience with several languages, including ASP.NET, VB.NET, C#, C, C++, Python, Java, Visual Basic, Visual J++, Perl, PHP, and mark-up languages such as XML, SGML, and HTML.
+Has created several applications, including: 
+	- Schedule Builder - a software program for creating shift schedules, featured on C-Net's download.com and Simtel.Net.
+	- Dictator - an alternative web browser, with networking utilities, featured on Simtel.Net.
+	- Jcams  a web content and author management system, currently hosted at Sourceforge.net  http://jcams.sourceforge.net
+	- Other Web applications including interactive message boards and data driven sites.
+Software Applications: worked with many applications, such as Microsoft Office, Microsoft Visual Studio, Microsoft Visual Studio .NET,  Microsoft FrontPage, Microsoft Interdev, Microsoft SQL Server, Microsoft Visio, Oracle 8i, Oracle 9i, Oracle Developer, Oracle JDeveloper, Macromedia Dreamweaver, Macromedia Flash and Sun's Forte For Java. 
+Certifications: currently BrainBench certified in Windows Administration, and has multiple certificates from the University of Pittsburgh's Computer Learning Center, including:
+	- SQL Server
+	- Computer Security
+	- Java]]>
+</cw:File>
